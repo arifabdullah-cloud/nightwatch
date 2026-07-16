@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.git/
+.github/
+docs/
+infra/
+load-tests/
+monitoring/
